@@ -25,9 +25,11 @@
 //store volume with 4/3 mul pi mul r mul r mul r
 //display volume
 
-let r = 12;
-const phi = 3.14;
-let volume_bola = 4 / 3 * phi * r * r * r;
-console.log(volume_bola);
+// let r = 12;
+// const phi = 3.14;
+// let volume_bola = 4 / 3 * phi * r * r * r;
+// console.log(volume_bola);
+//variabel : penampung nilai
+//tipe data :
 
 
