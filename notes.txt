@@ -1,1 +1,34 @@
 Belajar menjadi fullstack developer
+
+Belajar algoritma dan pseudocode
+
+- algoritma : langkah penyelesaian suatu masalah
+- pseudocode : langkah penyesuaian masalah dalam bentuk yang lebih struktural
+
+- Pengerjaan project yang baik, algoritma ->psudocode -> coding
+
+algoritma : 
+-cari definisi
+-buat variabel
+-buat variabel hasil
+-isi variabel hasil
+-tampilkan
+
+variabel
+Tipe data primitif
+1. Number
+2. string
+3. Boolean
+4. Object : 
+5. Undefined : variabel kosong
+6. Null : variabel isi tapi isinya null
+
+Operation
+- Math Operation : + - * ? %
+- Logic operation : and, or , not, equal, less than
+
+Concat = ditambahkan
+NaN = Not a Number
+= sama dengan
+== cek sama dengan value
+=== cek sama dengan value dan type data 
